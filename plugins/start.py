@@ -33,14 +33,14 @@ async def _human_time_duration(seconds):
 async def start(_, message: Message):
         await message.reply_text(
         f"""**Hey, I'm {bn} 🎀
-I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Gʀᴏᴜᴩ Vᴏɪᴄᴇ Cʜᴀᴛ. Dᴇᴠᴇʟᴏᴩᴇᴅ Bʏ [𝐃𝐞𝐂𝐨𝐝𝐞-𝐃𝐞𝐯𝐬](https://t.me/XD_dead_killer).
+I Cᴀɴ Pʟᴀʏ Mᴜsɪᴄ Iɴ Yᴏᴜʀ Gʀᴏᴜᴩ Vᴏɪᴄᴇ Cʜᴀᴛ. Dᴇᴠᴇʟᴏᴩᴇᴅ Bʏ [𝐊𝐀𝐍𝐍𝐔 𝐗𝐃](https://t.me/XD_dead_killer).
 Aᴅᴅ Mᴇ Tᴏ Yᴏᴜʀ Gʀᴏᴜᴩ Aɴᴅ Pʟᴀʏ Mᴜsɪᴄ Fʀᴇᴇʟʏ!**
         """,
         reply_markup=InlineKeyboardMarkup(
             [
                 [
                     InlineKeyboardButton(
-                        "𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭🧰", url="https://telegra.ph/text-10-24")
+                        "𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐬𝐭🧰", url="http://telegra.ph/𝐌𝐮𝐬𝐢𝐜-𝐜𝐨𝐦𝐦𝐚𝐧𝐝-11-30")
                   ],[
                     InlineKeyboardButton(
                        " 𝐒𝐮𝐩𝐩𝐨𝐫𝐭👿", url="https://t.me/XD_dead_killer"
